@@ -17,16 +17,16 @@ Additionally, everything in this repo is open source, from the code to the desig
 
 I'm going to be using this repo to keep track of my progress. I'll be updating it with new information as I go along, and I'll be adding new files as I make them. Here's a list of what I'm planning to do:
 
-0. Build a game for Sprig and submit it to the gallery
+**0. Build a game for Sprig and submit it to the gallery**
 I'm going to build a game called "Sprig Runner". It's a simple game where you have to avoid obstacles and collect coins. Once I'm done, I'll submit it to the gallery and hopefully it'll get approved.
 
-1. Start on Sprig case design
+**1. Start on Sprig case design**
 After I'm done with the game, I'll start on the case design. I'm not sure what I will use to design it, but I'll probably use Fusion 360. I'll also need to figure out how to make the case. I'm thinking of using a 3D printer at my school, but that is very open to change.
 
-2. Build the case and test it (ergonomics, etc.)
+**2. Build the case and test it (ergonomics, etc.)**
 After wrapping up the design, I'll start building the case together and test it. I'll make sure it's comfortable to hold and that it's easy to use. Of course, the Sprig console will be inside the case, so I'll have to make sure it fits, which brings me to the next step.
 
-3. Sprig shipped to me
+**3. Sprig shipped to me**
 I'm in Singapore, so it's going to take a while. I'll probably get it in a few weeks (hopefully), after which I will test it with the case and make any necessary changes in the design or fitting.
 
 ## Budgeting
